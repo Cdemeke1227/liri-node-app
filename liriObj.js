@@ -27,7 +27,7 @@ var liriObj = {
                 liriObj.movieInfo(request, movieName);
                 break;
             case 'do-what-it-says':
-                liriObj.doIt(keys, request, fs);
+            //Do nothing
                 break;
             default:
                 liriObj.reply();
@@ -41,8 +41,8 @@ var liriObj = {
             if (!error) {
                 for (var i = 0; i < 20; i++) {
                     console.log(
-                        "----------------------------------------------------------------" + "\n" + 
-                    (i+1) + " : " +tweets[i].text
+                        "----------------------------------------------------------------" + "\n" +
+                        (i + 1) + " : " + tweets[i].text
                     );
                 }
             }
@@ -50,15 +50,11 @@ var liriObj = {
     },
     //This will show the following information about the song in your terminal/bash window: Artist(s), Song's name, A preview link of the song from Spotify, The Album
     spot: function (keys, songName, Spotify) {
-        // console.log(keys.spotify);
-        // console.log(songName);
         var spotify = new Spotify(keys.spotify);
-
         spotify
-            .search({ type: 'track', query: songName, limit: 10 })
+            .search({ type: 'track', query: songName, limit: 5 })
             // .request('https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx')
             .then(function (response) {
-                // console.log(response.tracks);
                 for (var i = 0; i < response.tracks.items.length; i++) {
                     console.log(
                         "----------------------------------------------------------------" + "\r\n" +
@@ -79,10 +75,9 @@ var liriObj = {
         var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
         request(queryUrl, function (error, response, body) {
             if (!error && response.statusCode === 200) {
-                // console.log(JSON.parse(body));
                 console.log(
                     "----------------------------------------------------------------" + "\r\n" +
-                    "Title: " + JSON.parse(body).Title+ "\r\n" +
+                    "Title: " + JSON.parse(body).Title + "\r\n" +
                     "Year: " + JSON.parse(body).Year + "\r\n" +
                     "IMDB Rating: " + JSON.parse(body).imdbRating + "\r\n" +
                     "Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[2].Value + "\r\n" +
@@ -94,18 +89,6 @@ var liriObj = {
                 );
             }
         });
-    },
-    //This will read comand and argument from a text file.
-    doIt: function (keys, request, fs) {
-        fs.readFile("random.txt", "utf8", (err, data) => {
-            if (err) return console.log(err);
-            var Text = data.split(",");
-            var liriCommand = Text[0].toLowerCase();
-            var liriArgument = Text[1];
-            // console.log("1: "+liriCommand+ "  2:"+ liriArgument);
-
-            liriObj.command(keys, liriCommand, liriArgument, request, fs, Twitter, Spotify);
-        })
     },
     reply: function () {
         console.log(
