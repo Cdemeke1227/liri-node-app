@@ -35,13 +35,16 @@ var liriObj = {
     },
     // Twitter Function to show the last 20 tweets and when they were created. To display in your terminal/bash window
     tweet: function (keys, twitterHandle, Twitter) {
-        console.log(keys.twitter);
         var client = new Twitter(keys.twitter);
-        console.log(twitterHandle);
         var params = { screen_name: twitterHandle };
         client.get('statuses/user_timeline', params, function (error, tweets, response) {
             if (!error) {
-                console.log(data);
+                for (var i = 0; i < 20; i++) {
+                    console.log(
+                        "----------------------------------------------------------------" + "\n" + 
+                    (i+1) + " : " +tweets[i].text
+                    );
+                }
             }
         });
     },
@@ -52,18 +55,19 @@ var liriObj = {
         var spotify = new Spotify(keys.spotify);
 
         spotify
-            .search({ type: 'track', query: songName, limit: 4 })
+            .search({ type: 'track', query: songName, limit: 10 })
             // .request('https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx')
             .then(function (response) {
                 // console.log(response.tracks);
-                for (var i = 0; i < 10; i++) {
+                for (var i = 0; i < response.tracks.items.length; i++) {
                     console.log(
                         "----------------------------------------------------------------" + "\r\n" +
-                        "Artist Name:" + response.tracks.items[i].artists[0].name + "\r\n" +
-                        "Song Name:" + response.tracks.items[i].name + "\r\n" +
-                        "Link:" + response.tracks.items[i].preview_url + "\r\n" +
-                        "Album:" + response.tracks.items[i].album.name + "\r\n" +
-                        "----------------------------------------------------------------" + "\n");
+                        "Artist Name:   " + response.tracks.items[i].artists[0].name + "\r\n" +
+                        "Song Name:     " + response.tracks.items[i].name + "\r\n" +
+                        "Link:          " + response.tracks.items[i].preview_url + "\r\n" +
+                        "Album:         " + response.tracks.items[i].album.name + "\r\n" +
+                        "----------------------------------------------------------------" + "\n"
+                    );
                 }
             })
             .catch(function (err) {
@@ -76,14 +80,18 @@ var liriObj = {
         request(queryUrl, function (error, response, body) {
             if (!error && response.statusCode === 200) {
                 // console.log(JSON.parse(body));
-                console.log("Title: " + JSON.parse(body).Title);
-                console.log("Year: " + JSON.parse(body).Year);
-                console.log("IMDB Rating: " + JSON.parse(body).imdbRating);
-                console.log("Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[2].Value);
-                console.log("Country: " + JSON.parse(body).Country);
-                console.log("Language: " + JSON.parse(body).Language);
-                console.log("Plot: " + JSON.parse(body).Plot);
-                console.log("Actors: " + JSON.parse(body).Actors);
+                console.log(
+                    "----------------------------------------------------------------" + "\r\n" +
+                    "Title: " + JSON.parse(body).Title+ "\r\n" +
+                    "Year: " + JSON.parse(body).Year + "\r\n" +
+                    "IMDB Rating: " + JSON.parse(body).imdbRating + "\r\n" +
+                    "Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[2].Value + "\r\n" +
+                    "Country: " + JSON.parse(body).Country + "\r\n" +
+                    "Language: " + JSON.parse(body).Language + "\r\n" +
+                    "Plot: " + JSON.parse(body).Plote + "\r\n" +
+                    "Actors: " + JSON.parse(body).Actors + "\r\n" +
+                    "----------------------------------------------------------------" + "\n"
+                );
             }
         });
     },
@@ -96,7 +104,7 @@ var liriObj = {
             var liriArgument = Text[1];
             // console.log("1: "+liriCommand+ "  2:"+ liriArgument);
 
-            liriObj.command(keys, liriCommand, liriArgument, request, fs);
+            liriObj.command(keys, liriCommand, liriArgument, request, fs, Twitter, Spotify);
         })
     },
     reply: function () {
@@ -110,7 +118,15 @@ var liriObj = {
             '3. node liri.js    movie-this          <movie name>' + '\r\n' +
             '4. node liri.js    do-what-it-says' + '\r\n' +
             "----------------------------------------------------------------" + '\r\n' +
-            'NOTE: If the song or movie title is more than one work it should be wrapped in "quotes"' + '\n' +
+            'NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"' + '\n' +
+            "----------------------------------------------------------------" + '\r\n'
+        );
+    },
+    reply2: function () {
+        console.log(
+            "\r\n" +
+            "----------------------------------------------------------------" + '\r\n' +
+            'NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"' + '\n' +
             "----------------------------------------------------------------" + '\r\n'
         );
     }
