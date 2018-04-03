@@ -38,31 +38,38 @@ var liriObj = {
         console.log(keys.twitter);
         var client = new Twitter(keys.twitter);
         console.log(twitterHandle);
-        // var params = { screen_name: twitterHandle };
-        // client.get('statuses/user_timeline', params, function (error, tweets, response) {
-        //     if (!error) {
-        //         console.log(data);
-        //     }
-        // });
+        var params = { screen_name: twitterHandle };
+        client.get('statuses/user_timeline', params, function (error, tweets, response) {
+            if (!error) {
+                console.log(data);
+            }
+        });
     },
     //This will show the following information about the song in your terminal/bash window: Artist(s), Song's name, A preview link of the song from Spotify, The Album
     spot: function (keys, songName, Spotify) {
         // console.log(keys.spotify);
-        console.log(songName);
+        // console.log(songName);
         var spotify = new Spotify(keys.spotify);
 
         spotify
-            .search({ type: 'track', query: songName, limit:1 })
+            .search({ type: 'track', query: songName, limit: 4 })
+            // .request('https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx')
             .then(function (response) {
-                console.log("Hey"+response);
-                // console.log("Song Name: " + JSON.parse(body).Title);
-                // console.log("Link: " + JSON.parse(body).Year);
-                // console.log("Album: " + JSON.parse(body).imdbRating);
+                // console.log(response.tracks);
+                for (var i = 0; i < 10; i++) {
+                    console.log(
+                        "----------------------------------------------------------------" + "\r\n" +
+                        "Artist Name:" + response.tracks.items[i].artists[0].name + "\r\n" +
+                        "Song Name:" + response.tracks.items[i].name + "\r\n" +
+                        "Link:" + response.tracks.items[i].preview_url + "\r\n" +
+                        "Album:" + response.tracks.items[i].album.name + "\r\n" +
+                        "----------------------------------------------------------------" + "\n");
+                }
             })
             .catch(function (err) {
                 console.log(err);
             });
-        },
+    },
     //This will show movie information
     movieInfo: function (request, movieName) {
         var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
