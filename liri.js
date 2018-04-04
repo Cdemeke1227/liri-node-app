@@ -38,9 +38,10 @@ if (typeof process.argv[3] !== "undefined") {
 }
 
 // Check to see if user entered argument incorrectly
-if (typeof process.argv[4] === "undefined") {
-    //Runs the LIRI Logic Object
-    liriObj.command(keys, liriCommand, liriArgument, request, fs, twitter, Spotify);
-} else {
+if (typeof process.argv[4] !== "undefined") {
     liriObj.reply2();
 }
+if (typeof process.argv[2] !== "undefined" && typeof process.argv[4] === "undefined") {
+    //Runs the LIRI Logic Object
+    liriObj.command(keys, liriCommand, liriArgument, request, fs, twitter, Spotify);
+} 

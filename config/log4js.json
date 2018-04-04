@@ -1,0 +1,39 @@
+{
+    "appenders": {
+        "liri": {
+            "type": "file",
+            "filename": "liri.log",
+            "category": [
+                "tweet",
+                "spotify",
+                "OMDB"
+            ]
+        }
+    },
+    "categories": {
+        "default": {
+            "appenders": [
+                "liri"
+            ],
+            "level": ["all"]
+        },
+        "tweet": {
+            "appenders": [
+                "liri"
+            ],
+            "level": "info"
+        },
+        "spofify": {
+            "appenders": [
+                "liri"
+            ],
+            "level": "info"
+        },
+        "OMDB": {
+            "appenders": [
+                "liri"
+            ],
+            "level": "info"
+        }
+    }
+}
