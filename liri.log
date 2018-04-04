@@ -1,311 +1,1230 @@
-[2018-04-04T01:26:54.768] [INFO] liri - 1: my-tweets
-[2018-04-04T01:26:55.055] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:51:25.793] [INFO] liri - spotify-this-song
+[2018-04-04T17:51:25.795] [INFO] liri - All the small things
+[2018-04-04T17:51:26.353] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Enema Of The State
+----------------------------------------------------------------
+
+[2018-04-04T17:51:26.353] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Enema Of The State
+----------------------------------------------------------------
+
+[2018-04-04T17:51:26.354] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Greatest Hits
+----------------------------------------------------------------
+
+[2018-04-04T17:51:26.354] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Imaginary Future
+Song Name:     All the Small Things
+Preview Link:          https://p.scdn.co/mp3-preview/fa6af7d1104fb2bab909409a5eac6060b8121283?cid=e7ba6c80571f435f92564737d0d90986
+Album:         All the Small Things
+----------------------------------------------------------------
+
+[2018-04-04T17:51:26.354] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Scott Bradlee's Postmodern Jukebox
+Song Name:     All The Small Things
+Preview Link:          https://p.scdn.co/mp3-preview/8a39c7a626a1c4f9e8c5717668319cbd646edca5?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Fake Blues
+----------------------------------------------------------------
+
+[2018-04-04T17:52:13.544] [INFO] liri - my-tweets
+[2018-04-04T17:52:13.895] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I once saw a forklift lift a crate of forks. And it was way to literal for me.
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 If carrots got you drunk, rabbits would be messed-up.
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Rice is great if you're really hungry and want to eat two thousand of something.
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.896] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 My fake plants died because I did not pretend to water them.
-[2018-04-04T01:26:55.056] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I drank some boiling water because I wanted to whistle.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Why do they call it rush hour when nothing moves?
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Procrastination is the art of keeping up with yesterday.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 There cannot be a crisis next week. My schedule is already full.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 A day without sunshine is like, you know, night.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 We're entering a new world in which data may be more important than software.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 The digital revolution is far more significant than the invention of writing or even of printing.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Computer science is no more about computers than astronomy is about telescopes.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 The science of today is the technology of tomorrow.
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 What's happening?
-[2018-04-04T01:26:55.057] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:13.897] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Hello World!
-[2018-04-04T01:27:56.344] [INFO] liri - 1: my-tweets
-[2018-04-04T01:27:56.638] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:26.905] [INFO] liri - my-tweets
+[2018-04-04T17:52:26.907] [INFO] liri - elonmusk
+[2018-04-04T17:52:27.554] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@Complex This is false
+[2018-04-04T17:52:27.554] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+https://t.co/UWJK1LwgKf
+[2018-04-04T17:52:27.554] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@rosechehrazi Oh, it’s on …
+[2018-04-04T17:52:27.554] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+Most people don’t know there’s a whole box of Easter eggs with every Tesla. Just tap logo on center screen &amp; wait.… https://t.co/CgWaV6amQZ
+[2018-04-04T17:52:27.554] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+RT @TIME: SpaceX just launched an experimental space junk sweeper into orbit https://t.co/XCQKxHqQpY
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@amir Uhh, hello, I need to build cars
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@amir About a year ago, I asked Doug to manage both engineering &amp; production. He agreed that Tesla needed eng &amp; pro… https://t.co/CEdLGq8Ht6
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@amir Can’t believe you’re even writing about this. My job as CEO is to focus on what’s most critical, which is cur… https://t.co/vLDyiKc1yo
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+Liftoff in 5 mins https://t.co/Ri16pNAbX6
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@vegamontesino @NoceraBV @WSJ @Tesla We release as soon as we have the data. Good timeline, bad timing. Doesn’t matter.
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@NoceraBV @WSJ @Tesla Not criticizing, just as asking questions. I’m sure there’s a really great answer …
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@WSJ Tesla policy is to issue a recall *before* there are injuries. This is absolutely the right thing to do. Yet t… https://t.co/WdOPhZHUSv
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@OmarHoryy @TeslaMotorsClub Seriously! Obviously, I’m not going to do an April Fool’s joke about going bankwupt if… https://t.co/jv3zCxKJsP
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@TeslaMotorsClub Lot of respect for NTSB, but NHTSA regulates cars, not NTSB, which is an advisory body. Tesla rele… https://t.co/RStKMakag1
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+RT @Teslarati: Tesla Model S navigates one of Vienna’s ‘crappiest’ roads on Autopilot https://t.co/C60brOxv5k https://t.co/CS08EwdgR1
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@Teslarati @13ericralph31 @w00ki33 Oh yeah, forgot to mention it actually landed fine, just not on Mr Steven https://t.co/HckB2OkJ5L
+[2018-04-04T17:52:27.555] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@TommyThornton What about this? https://t.co/s5zcMvzXC7
+[2018-04-04T17:52:27.556] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@_iitzBrendon Elon University is a real place
+[2018-04-04T17:52:27.556] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+RT @NASA: Tomorrow, a #Dragon atop a fiery @SpaceX rocket will deliver science that studies thunderstorms on Earth, space gardening, contro…
+[2018-04-04T17:52:27.556] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@vreeman Coming soon to Tesla merch. Free shots in stores every April 1st.
+[2018-04-04T17:52:35.495] [INFO] liri - my-tweets
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I once saw a forklift lift a crate of forks. And it was way to literal for me.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 If carrots got you drunk, rabbits would be messed-up.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Rice is great if you're really hungry and want to eat two thousand of something.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.723] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 My fake plants died because I did not pretend to water them.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I drank some boiling water because I wanted to whistle.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Why do they call it rush hour when nothing moves?
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Procrastination is the art of keeping up with yesterday.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 There cannot be a crisis next week. My schedule is already full.
-[2018-04-04T01:27:56.639] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 A day without sunshine is like, you know, night.
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 We're entering a new world in which data may be more important than software.
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 The digital revolution is far more significant than the invention of writing or even of printing.
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Computer science is no more about computers than astronomy is about telescopes.
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 The science of today is the technology of tomorrow.
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 What's happening?
-[2018-04-04T01:27:56.640] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:52:35.724] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Hello World!
-[2018-04-04T01:29:44.605] [INFO] liri - 1: my-tweets
-[2018-04-04T01:29:44.950] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:56.980] [INFO] liri - my-tweets
+[2018-04-04T17:58:57.243] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I once saw a forklift lift a crate of forks. And it was way to literal for me.
-[2018-04-04T01:29:44.950] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.243] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
-[2018-04-04T01:29:44.950] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 If carrots got you drunk, rabbits would be messed-up.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Rice is great if you're really hungry and want to eat two thousand of something.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 My fake plants died because I did not pretend to water them.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 I drank some boiling water because I wanted to whistle.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Why do they call it rush hour when nothing moves?
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Procrastination is the art of keeping up with yesterday.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.244] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 There cannot be a crisis next week. My schedule is already full.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 A day without sunshine is like, you know, night.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
-[2018-04-04T01:29:44.951] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 We're entering a new world in which data may be more important than software.
-[2018-04-04T01:29:44.952] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 The digital revolution is far more significant than the invention of writing or even of printing.
-[2018-04-04T01:29:44.952] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Computer science is no more about computers than astronomy is about telescopes.
-[2018-04-04T01:29:44.952] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 The science of today is the technology of tomorrow.
-[2018-04-04T01:29:44.952] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 What's happening?
-[2018-04-04T01:29:44.952] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:58:57.245] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 03:36:11 +0000 2018
 Hello World!
-[2018-04-04T01:30:49.752] [INFO] liri - my-tweets
-[2018-04-04T01:30:49.754] [INFO] liri - elonmusk
-[2018-04-04T01:30:50.100] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T17:59:56.416] [INFO] liri - my-tweets
+[2018-04-04T17:59:56.419] [INFO] liri - elonmusk
+[2018-04-04T17:59:56.736] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@Complex This is false
+[2018-04-04T17:59:56.736] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+https://t.co/UWJK1LwgKf
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@rosechehrazi Oh, it’s on …
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+Most people don’t know there’s a whole box of Easter eggs with every Tesla. Just tap logo on center screen &amp; wait.… https://t.co/CgWaV6amQZ
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+RT @TIME: SpaceX just launched an experimental space junk sweeper into orbit https://t.co/XCQKxHqQpY
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@amir Uhh, hello, I need to build cars
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@amir About a year ago, I asked Doug to manage both engineering &amp; production. He agreed that Tesla needed eng &amp; pro… https://t.co/CEdLGq8Ht6
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@amir Can’t believe you’re even writing about this. My job as CEO is to focus on what’s most critical, which is cur… https://t.co/vLDyiKc1yo
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+Liftoff in 5 mins https://t.co/Ri16pNAbX6
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@vegamontesino @NoceraBV @WSJ @Tesla We release as soon as we have the data. Good timeline, bad timing. Doesn’t matter.
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@NoceraBV @WSJ @Tesla Not criticizing, just as asking questions. I’m sure there’s a really great answer …
+[2018-04-04T17:59:56.737] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@WSJ Tesla policy is to issue a recall *before* there are injuries. This is absolutely the right thing to do. Yet t… https://t.co/WdOPhZHUSv
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@OmarHoryy @TeslaMotorsClub Seriously! Obviously, I’m not going to do an April Fool’s joke about going bankwupt if… https://t.co/jv3zCxKJsP
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@TeslaMotorsClub Lot of respect for NTSB, but NHTSA regulates cars, not NTSB, which is an advisory body. Tesla rele… https://t.co/RStKMakag1
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+RT @Teslarati: Tesla Model S navigates one of Vienna’s ‘crappiest’ roads on Autopilot https://t.co/C60brOxv5k https://t.co/CS08EwdgR1
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@Teslarati @13ericralph31 @w00ki33 Oh yeah, forgot to mention it actually landed fine, just not on Mr Steven https://t.co/HckB2OkJ5L
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@TommyThornton What about this? https://t.co/s5zcMvzXC7
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@_iitzBrendon Elon University is a real place
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+RT @NASA: Tomorrow, a #Dragon atop a fiery @SpaceX rocket will deliver science that studies thunderstorms on Earth, space gardening, contro…
+[2018-04-04T17:59:56.738] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@vreeman Coming soon to Tesla merch. Free shots in stores every April 1st.
+[2018-04-04T18:00:12.120] [INFO] liri - my-tweets
+[2018-04-04T18:00:12.122] [INFO] liri - DMK_COD3R
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:00:12.399] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:00:12.400] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+What's happening?
+[2018-04-04T18:00:12.401] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Hello World!
+[2018-04-04T18:00:18.190] [INFO] liri - my-tweets
+[2018-04-04T18:00:18.475] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:00:18.476] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+What's happening?
+[2018-04-04T18:00:18.477] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Hello World!
+[2018-04-04T18:00:36.954] [INFO] liri - spotify-this-song
+[2018-04-04T18:00:37.416] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Ty Dolla $ign
+Song Name:     Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link:          https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+----------------------------------------------------------------
+
+[2018-04-04T18:00:37.416] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Ty Dolla $ign
+Song Name:     Love U Better (feat. Lil Wayne & The-Dream)
+Preview Link:          https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Beach House 3
+----------------------------------------------------------------
+
+[2018-04-04T18:00:37.416] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Harry Styles
+Song Name:     Sign of the Times
+Preview Link:          https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Harry Styles
+----------------------------------------------------------------
+
+[2018-04-04T18:00:37.416] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Harry Styles
+Song Name:     Sign of the Times
+Preview Link:          https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Sign of the Times
+----------------------------------------------------------------
+
+[2018-04-04T18:00:37.416] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Jeremih
+Song Name:     Impatient
+Preview Link:          null
+Album:         Late Nights: The Album
+----------------------------------------------------------------
+
+[2018-04-04T18:00:51.817] [INFO] liri - spotify-this-song
+[2018-04-04T18:00:51.820] [INFO] liri - All the small things
+[2018-04-04T18:00:52.329] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Enema Of The State
+----------------------------------------------------------------
+
+[2018-04-04T18:00:52.330] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Enema Of The State
+----------------------------------------------------------------
+
+[2018-04-04T18:00:52.330] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Greatest Hits
+----------------------------------------------------------------
+
+[2018-04-04T18:00:52.330] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Imaginary Future
+Song Name:     All the Small Things
+Preview Link:          https://p.scdn.co/mp3-preview/fa6af7d1104fb2bab909409a5eac6060b8121283?cid=e7ba6c80571f435f92564737d0d90986
+Album:         All the Small Things
+----------------------------------------------------------------
+
+[2018-04-04T18:00:52.330] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Scott Bradlee's Postmodern Jukebox
+Song Name:     All The Small Things
+Preview Link:          https://p.scdn.co/mp3-preview/8a39c7a626a1c4f9e8c5717668319cbd646edca5?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Fake Blues
+----------------------------------------------------------------
+
+[2018-04-04T18:01:14.341] [INFO] liri - spotify-this-song
+[2018-04-04T18:01:14.343] [INFO] liri - Buffalo Soldier
+[2018-04-04T18:01:14.737] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Bob Marley & The Wailers
+Song Name:     Buffalo Soldier
+Preview Link:          null
+Album:         Confrontation
+----------------------------------------------------------------
+
+[2018-04-04T18:01:14.737] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Bob Marley & The Wailers
+Song Name:     Buffalo Soldier
+Preview Link:          null
+Album:         Legend (Deluxe Edition)
+----------------------------------------------------------------
+
+[2018-04-04T18:01:14.737] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Bob Marley & The Wailers
+Song Name:     Buffalo Soldier
+Preview Link:          null
+Album:         Legend
+----------------------------------------------------------------
+
+[2018-04-04T18:01:14.737] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Bob Marley & The Wailers
+Song Name:     Buffalo Soldier
+Preview Link:          null
+Album:         Legend (Deluxe Edition)
+----------------------------------------------------------------
+
+[2018-04-04T18:01:14.737] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Cultura Profética
+Song Name:     Buffalo Soldier (Live)
+Preview Link:          https://p.scdn.co/mp3-preview/c6d3c151dfa334d16ebad18553bfdfac6f3be3ca?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Tribute to the Legend Bob Marley (Live)
+----------------------------------------------------------------
+
+[2018-04-04T18:01:29.453] [INFO] liri - movie-this
+[2018-04-04T18:01:29.510] [INFO] OMDB - ----------------------------------------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 63/100
+Country: Belgium, Germany, Canada, France, USA, UK
+Production:Magnolia Pictures
+Language: English, Mohawk
+Plot: undefined
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------------------------
+
+[2018-04-04T18:01:40.859] [INFO] liri - movie-this
+[2018-04-04T18:01:40.862] [INFO] liri - The Godfather
+[2018-04-04T18:01:40.936] [INFO] OMDB - ----------------------------------------------------------------
+Title: The Godfather
+Year: 1972
+IMDB Rating: 9.2
+Rotten Tomatoes Rating: 100/100
+Country: USA
+Production:Paramount Pictures
+Language: English, Italian, Latin
+Plot: undefined
+Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+----------------------------------------------------------------
+
+[2018-04-04T18:02:02.103] [INFO] liri - movie-this
+[2018-04-04T18:02:02.105] [INFO] liri - "Furious 7"
+
+[2018-04-04T18:02:02.154] [INFO] OMDB - ----------------------------------------------------------------
+Title: Furious 7
+Year: 2015
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: 67/100
+Country: Japan, USA
+Production:Universal Pictures
+Language: English
+Plot: undefined
+Actors: Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez
+----------------------------------------------------------------
+
+[2018-04-04T18:02:20.980] [ERROR] liri - 
+----------------------------------------------------------------
+LIRI only responds to the correct commands followed by a <search parameter>:
+----------------------------------------------------------------
+1. node liri.js    my-tweets           <twitter handle>
+2. node liri.js    spofity-this-song   <song name here>
+3. node liri.js    movie-this          <movie name>
+4. node liri.js    do-what-it-says     {./random.txt file in the directory}
+----------------------------------------------------------------
+NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"
+NOTE: In the random.txt the first value must have a comma after"
+----------------------------------------------------------------
+
+[2018-04-04T18:02:29.355] [ERROR] liri - 
+----------------------------------------------------------------
+LIRI only responds to the correct commands followed by a <search parameter>:
+----------------------------------------------------------------
+1. node liri.js    my-tweets           <twitter handle>
+2. node liri.js    spofity-this-song   <song name here>
+3. node liri.js    movie-this          <movie name>
+4. node liri.js    do-what-it-says     {./random.txt file in the directory}
+----------------------------------------------------------------
+NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"
+NOTE: In the random.txt the first value must have a comma after"
+----------------------------------------------------------------
+
+[2018-04-04T18:02:49.081] [ERROR] liri - 
+----------------------------------------------------------------
+NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"
+----------------------------------------------------------------
+
+[2018-04-04T18:03:02.814] [INFO] liri - movie-this
+[2018-04-04T18:03:02.816] [INFO] liri - Forrest Gump
+[2018-04-04T18:03:02.936] [INFO] OMDB - ----------------------------------------------------------------
+Title: Forrest Gump
+Year: 1994
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 82/100
+Country: USA
+Production:Paramount Pictures
+Language: English
+Plot: undefined
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+----------------------------------------------------------------
+
+[2018-04-04T18:22:04.466] [INFO] liri - my-tweets
+[2018-04-04T18:22:04.794] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:22:04.795] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+What's happening?
+[2018-04-04T18:22:04.796] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+Hello World!
+[2018-04-04T18:22:17.763] [INFO] liri - my-tweets
+[2018-04-04T18:22:18.073] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:22:18.074] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:30 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:22:18.074] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:08 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:22:18.074] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:51 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:22:18.074] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:32 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:22:18.074] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:07 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:22:18.074] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:42 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:21 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:32:43 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:23:07 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:21:24 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:20:27 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:19:03 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:17:02 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:16:28 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:15:17 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:14:30 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:13:13 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:22:18.075] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:12:12 +0000 2018
+What's happening?
+[2018-04-04T18:22:18.076] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:11:36 +0000 2018
+Hello World!
+[2018-04-04T18:24:56.855] [INFO] liri - my-tweets
+[2018-04-04T18:24:57.198] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:30 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:08 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:51 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:32 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:07 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:42 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:24:57.199] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:21 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:32:43 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:23:07 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:21:24 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:20:27 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:19:03 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:17:02 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:16:28 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:15:17 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:14:30 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:13:13 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:24:57.200] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:12:12 +0000 2018
+What's happening?
+[2018-04-04T18:24:57.201] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:11:36 +0000 2018
+Hello World!
+[2018-04-04T18:25:55.087] [ERROR] liri - 
+----------------------------------------------------------------
+LIRI only responds to the correct commands followed by a <search parameter>:
+----------------------------------------------------------------
+1. node liri.js    my-tweets           <twitter handle>
+2. node liri.js    spofity-this-song   <song name here>
+3. node liri.js    movie-this          <movie name>
+4. node liri.js    do-what-it-says     {./random.txt file in the directory}
+----------------------------------------------------------------
+NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"
+NOTE: In the random.txt the first value must have a comma after"
+----------------------------------------------------------------
+
+[2018-04-04T18:26:03.476] [INFO] liri - my-tweets
+[2018-04-04T18:26:03.734] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:30 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:08 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:51 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:32 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:07 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:42 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:21 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:32:43 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:26:03.735] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:23:07 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:21:24 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:20:27 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:19:03 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:17:02 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:16:28 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:15:17 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:14:30 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:13:13 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:12:12 +0000 2018
+What's happening?
+[2018-04-04T18:26:03.736] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:11:36 +0000 2018
+Hello World!
+[2018-04-04T18:26:20.194] [INFO] liri - my-tweets
+[2018-04-04T18:26:20.196] [INFO] liri - elonmusck
+[2018-04-04T18:26:26.773] [INFO] liri - my-tweets
+[2018-04-04T18:26:26.775] [INFO] liri - elonmusk
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@Complex This is false
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 17:24:48 +0000 2018
+https://t.co/UWJK1LwgKf
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 17:16:57 +0000 2018
+@rosechehrazi Oh, it’s on …
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 17:16:13 +0000 2018
+Most people don’t know there’s a whole box of Easter eggs with every Tesla. Just tap logo on center screen &amp; wait.… https://t.co/CgWaV6amQZ
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 11:14:56 +0000 2018
 RT @TIME: SpaceX just launched an experimental space junk sweeper into orbit https://t.co/XCQKxHqQpY
-[2018-04-04T01:30:50.100] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 21:02:46 +0000 2018
 @amir Uhh, hello, I need to build cars
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 21:01:35 +0000 2018
 @amir About a year ago, I asked Doug to manage both engineering &amp; production. He agreed that Tesla needed eng &amp; pro… https://t.co/CEdLGq8Ht6
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 20:51:43 +0000 2018
 @amir Can’t believe you’re even writing about this. My job as CEO is to focus on what’s most critical, which is cur… https://t.co/vLDyiKc1yo
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 20:25:07 +0000 2018
 Liftoff in 5 mins https://t.co/Ri16pNAbX6
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.136] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 19:40:42 +0000 2018
 @vegamontesino @NoceraBV @WSJ @Tesla We release as soon as we have the data. Good timeline, bad timing. Doesn’t matter.
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 19:10:25 +0000 2018
 @NoceraBV @WSJ @Tesla Not criticizing, just as asking questions. I’m sure there’s a really great answer …
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 19:03:56 +0000 2018
 @WSJ Tesla policy is to issue a recall *before* there are injuries. This is absolutely the right thing to do. Yet t… https://t.co/WdOPhZHUSv
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 18:52:38 +0000 2018
 @OmarHoryy @TeslaMotorsClub Seriously! Obviously, I’m not going to do an April Fool’s joke about going bankwupt if… https://t.co/jv3zCxKJsP
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 18:37:37 +0000 2018
 @TeslaMotorsClub Lot of respect for NTSB, but NHTSA regulates cars, not NTSB, which is an advisory body. Tesla rele… https://t.co/RStKMakag1
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 03:26:58 +0000 2018
 RT @Teslarati: Tesla Model S navigates one of Vienna’s ‘crappiest’ roads on Autopilot https://t.co/C60brOxv5k https://t.co/CS08EwdgR1
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 03:26:54 +0000 2018
 @Teslarati @13ericralph31 @w00ki33 Oh yeah, forgot to mention it actually landed fine, just not on Mr Steven https://t.co/HckB2OkJ5L
-[2018-04-04T01:30:50.101] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 23:35:21 +0000 2018
 @TommyThornton What about this? https://t.co/s5zcMvzXC7
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 23:20:17 +0000 2018
 @_iitzBrendon Elon University is a real place
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 23:13:47 +0000 2018
 RT @NASA: Tomorrow, a #Dragon atop a fiery @SpaceX rocket will deliver science that studies thunderstorms on Earth, space gardening, contro…
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:26:27.137] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 22:14:22 +0000 2018
 @vreeman Coming soon to Tesla merch. Free shots in stores every April 1st.
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-@AntVenom As you wish
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-@peteWcarle It’s the best
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-Elon was found passed out against a Tesla Model 3, surrounded by "Teslaquilla" bottles, the tracks of dried tears s… https://t.co/qywhwwMHju
-[2018-04-04T01:30:50.102] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-There are many chapters of bankruptcy and, as critics so rightly pointed out, Tesla has them *all*, including Chapt… https://t.co/n3FlZiSBJY
-[2018-04-04T01:30:54.482] [INFO] liri - my-tweets
-[2018-04-04T01:30:54.485] [INFO] liri - Chris_DaMecca
-[2018-04-04T01:31:12.192] [INFO] liri - my-tweets
-[2018-04-04T01:31:12.195] [INFO] liri - Chris_DaMecca
-[2018-04-04T01:31:19.712] [INFO] liri - my-tweets
-[2018-04-04T01:31:19.714] [INFO] liri - elonmusk
-[2018-04-04T01:31:20.503] [INFO] tweet - ----------------------------------------------------------------
+[2018-04-04T18:26:44.113] [INFO] liri - spotify-this-song
+[2018-04-04T18:26:44.590] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Ty Dolla $ign
+Song Name:     Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link:          https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+----------------------------------------------------------------
+
+[2018-04-04T18:26:44.590] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Ty Dolla $ign
+Song Name:     Love U Better (feat. Lil Wayne & The-Dream)
+Preview Link:          https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Beach House 3
+----------------------------------------------------------------
+
+[2018-04-04T18:26:44.591] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Harry Styles
+Song Name:     Sign of the Times
+Preview Link:          https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Harry Styles
+----------------------------------------------------------------
+
+[2018-04-04T18:26:44.591] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Harry Styles
+Song Name:     Sign of the Times
+Preview Link:          https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Sign of the Times
+----------------------------------------------------------------
+
+[2018-04-04T18:26:44.591] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Jeremih
+Song Name:     Impatient
+Preview Link:          null
+Album:         Late Nights: The Album
+----------------------------------------------------------------
+
+[2018-04-04T18:27:43.500] [INFO] liri - my-tweets
+[2018-04-04T18:27:44.164] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:36:11 +0000 2018
+I once saw a forklift lift a crate of forks. And it was way to literal for me.
+[2018-04-04T18:27:44.164] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:30 +0000 2018
+An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order… https://t.co/77wOibVH8i
+[2018-04-04T18:27:44.164] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:35:08 +0000 2018
+If carrots got you drunk, rabbits would be messed-up.
+[2018-04-04T18:27:44.164] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:51 +0000 2018
+Rice is great if you're really hungry and want to eat two thousand of something.
+[2018-04-04T18:27:44.165] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:32 +0000 2018
+My belt holds my pants up, but the belt loops hold my belt up. I don't really know what's happening down there. Who is the real hero?
+[2018-04-04T18:27:44.165] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:34:07 +0000 2018
+I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.
+[2018-04-04T18:27:44.165] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:42 +0000 2018
+I wanted to buy a candle holder, but the store didn't have one. So I got a cake.
+[2018-04-04T18:27:44.165] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:33:21 +0000 2018
+My fake plants died because I did not pretend to water them.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:32:43 +0000 2018
+I drank some boiling water because I wanted to whistle.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:23:07 +0000 2018
+Why do they call it rush hour when nothing moves?
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:21:24 +0000 2018
+Procrastination is the art of keeping up with yesterday.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:20:27 +0000 2018
+There cannot be a crisis next week. My schedule is already full.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:19:03 +0000 2018
+A day without sunshine is like, you know, night.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:17:02 +0000 2018
+When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:16:28 +0000 2018
+We're entering a new world in which data may be more important than software.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:15:17 +0000 2018
+The digital revolution is far more significant than the invention of writing or even of printing.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:14:30 +0000 2018
+Computer science is no more about computers than astronomy is about telescopes.
+[2018-04-04T18:27:44.166] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:13:13 +0000 2018
+The science of today is the technology of tomorrow.
+[2018-04-04T18:27:44.167] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:12:12 +0000 2018
+What's happening?
+[2018-04-04T18:27:44.167] [INFO] tweet - ----------------------------------------------------------------
+Tue Apr 03 03:11:36 +0000 2018
+Hello World!
+[2018-04-04T18:27:55.638] [INFO] liri - my-tweets
+[2018-04-04T18:27:55.641] [INFO] liri - elonmusk
+[2018-04-04T18:27:56.294] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 22:25:31 +0000 2018
+@Complex This is false
+[2018-04-04T18:27:56.294] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 17:24:48 +0000 2018
+https://t.co/UWJK1LwgKf
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 17:16:57 +0000 2018
+@rosechehrazi Oh, it’s on …
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Wed Apr 04 17:16:13 +0000 2018
+Most people don’t know there’s a whole box of Easter eggs with every Tesla. Just tap logo on center screen &amp; wait.… https://t.co/CgWaV6amQZ
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
 Tue Apr 03 11:14:56 +0000 2018
 RT @TIME: SpaceX just launched an experimental space junk sweeper into orbit https://t.co/XCQKxHqQpY
-[2018-04-04T01:31:20.503] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 21:02:46 +0000 2018
 @amir Uhh, hello, I need to build cars
-[2018-04-04T01:31:20.503] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 21:01:35 +0000 2018
 @amir About a year ago, I asked Doug to manage both engineering &amp; production. He agreed that Tesla needed eng &amp; pro… https://t.co/CEdLGq8Ht6
-[2018-04-04T01:31:20.503] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 20:51:43 +0000 2018
 @amir Can’t believe you’re even writing about this. My job as CEO is to focus on what’s most critical, which is cur… https://t.co/vLDyiKc1yo
-[2018-04-04T01:31:20.503] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 20:25:07 +0000 2018
 Liftoff in 5 mins https://t.co/Ri16pNAbX6
-[2018-04-04T01:31:20.503] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 19:40:42 +0000 2018
 @vegamontesino @NoceraBV @WSJ @Tesla We release as soon as we have the data. Good timeline, bad timing. Doesn’t matter.
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.295] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 19:10:25 +0000 2018
 @NoceraBV @WSJ @Tesla Not criticizing, just as asking questions. I’m sure there’s a really great answer …
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 19:03:56 +0000 2018
 @WSJ Tesla policy is to issue a recall *before* there are injuries. This is absolutely the right thing to do. Yet t… https://t.co/WdOPhZHUSv
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 18:52:38 +0000 2018
 @OmarHoryy @TeslaMotorsClub Seriously! Obviously, I’m not going to do an April Fool’s joke about going bankwupt if… https://t.co/jv3zCxKJsP
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 18:37:37 +0000 2018
 @TeslaMotorsClub Lot of respect for NTSB, but NHTSA regulates cars, not NTSB, which is an advisory body. Tesla rele… https://t.co/RStKMakag1
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 03:26:58 +0000 2018
 RT @Teslarati: Tesla Model S navigates one of Vienna’s ‘crappiest’ roads on Autopilot https://t.co/C60brOxv5k https://t.co/CS08EwdgR1
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Mon Apr 02 03:26:54 +0000 2018
 @Teslarati @13ericralph31 @w00ki33 Oh yeah, forgot to mention it actually landed fine, just not on Mr Steven https://t.co/HckB2OkJ5L
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 23:35:21 +0000 2018
 @TommyThornton What about this? https://t.co/s5zcMvzXC7
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 23:20:17 +0000 2018
 @_iitzBrendon Elon University is a real place
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 23:13:47 +0000 2018
 RT @NASA: Tomorrow, a #Dragon atop a fiery @SpaceX rocket will deliver science that studies thunderstorms on Earth, space gardening, contro…
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
+[2018-04-04T18:27:56.296] [INFO] tweet - ----------------------------------------------------------------
+Sun Apr 01 22:14:22 +0000 2018
 @vreeman Coming soon to Tesla merch. Free shots in stores every April 1st.
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-@AntVenom As you wish
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-@peteWcarle It’s the best
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-Elon was found passed out against a Tesla Model 3, surrounded by "Teslaquilla" bottles, the tracks of dried tears s… https://t.co/qywhwwMHju
-[2018-04-04T01:31:20.504] [INFO] tweet - ----------------------------------------------------------------
-Tue Apr 03 11:14:56 +0000 2018
-There are many chapters of bankruptcy and, as critics so rightly pointed out, Tesla has them *all*, including Chapt… https://t.co/n3FlZiSBJY
+[2018-04-04T18:28:13.409] [INFO] liri - spotify-this-song
+[2018-04-04T18:28:13.833] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Ty Dolla $ign
+Song Name:     Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link:          https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+----------------------------------------------------------------
+
+[2018-04-04T18:28:24.678] [INFO] liri - spotify-this-song
+[2018-04-04T18:28:24.680] [INFO] liri - All the small things
+[2018-04-04T18:28:25.182] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   blink-182
+Song Name:     All The Small Things
+Preview Link:          null
+Album:         Enema Of The State
+----------------------------------------------------------------
+
+[2018-04-04T18:28:41.081] [INFO] liri - spotify-this-song
+[2018-04-04T18:28:41.083] [INFO] liri - Happy
+[2018-04-04T18:28:41.667] [INFO] spotify - ----------------------------------------------------------------
+Artist Name:   Old Dominion
+Song Name:     Written in the Sand
+Preview Link:          https://p.scdn.co/mp3-preview/359e57ee6223012c21e12eeb5ad310a72cfb8cd3?cid=e7ba6c80571f435f92564737d0d90986
+Album:         Happy Endings
+----------------------------------------------------------------
+
+[2018-04-04T18:28:54.654] [INFO] liri - movie-this
+[2018-04-04T18:28:54.712] [INFO] OMDB - ----------------------------------------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 63/100
+Country: Belgium, Germany, Canada, France, USA, UK
+Production:Magnolia Pictures
+Language: English, Mohawk
+Plot: undefined
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------------------------
+
+[2018-04-04T18:29:03.898] [INFO] liri - movie-this
+[2018-04-04T18:29:03.900] [INFO] liri - Forrest Gump
+[2018-04-04T18:29:03.965] [INFO] OMDB - ----------------------------------------------------------------
+Title: Forrest Gump
+Year: 1994
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 82/100
+Country: USA
+Production:Paramount Pictures
+Language: English
+Plot: undefined
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+----------------------------------------------------------------
+
+[2018-04-04T18:29:16.365] [ERROR] liri - 
+----------------------------------------------------------------
+NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"
+----------------------------------------------------------------
+
+[2018-04-04T18:29:22.884] [ERROR] liri - 
+----------------------------------------------------------------
+LIRI only responds to the correct commands followed by a <search parameter>:
+----------------------------------------------------------------
+1. node liri.js    my-tweets           <twitter handle>
+2. node liri.js    spofity-this-song   <song name here>
+3. node liri.js    movie-this          <movie name>
+4. node liri.js    do-what-it-says     {./random.txt file in the directory}
+----------------------------------------------------------------
+NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"
+NOTE: In the random.txt the first value must have a comma after"
+----------------------------------------------------------------
+
+[2018-04-04T18:29:34.293] [INFO] liri - movie-this
+[2018-04-04T18:29:34.296] [INFO] liri - "Furious 7"
+
+[2018-04-04T18:29:34.343] [INFO] OMDB - ----------------------------------------------------------------
+Title: Furious 7
+Year: 2015
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: 67/100
+Country: Japan, USA
+Production:Universal Pictures
+Language: English
+Plot: undefined
+Actors: Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez
+----------------------------------------------------------------
+

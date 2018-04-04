@@ -53,11 +53,11 @@ var liriObj = {
                 for (var i = 0; i < 20; i++) {
                     console.log(
                         "----------------------------------------------------------------" + "\n" +
-                        tweets[0].created_at + "\n" +
+                        tweets[i].created_at + "\n" +
                         tweets[i].text
                     );
                     logger.info("----------------------------------------------------------------" + "\n" +
-                        tweets[0].created_at + "\n" +
+                        tweets[i].created_at + "\n" +
                         tweets[i].text
                     );
                 }
@@ -69,7 +69,7 @@ var liriObj = {
         var logger = log4js.getLogger('spotify');
         var spotify = new Spotify(keys.spotify);
         spotify
-            .search({ type: 'track', query: songName, limit: 5 })
+            .search({ type: 'track', query: songName, limit: 1 })
             // .request('https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx')
             .then(function (response) {
                 for (var i = 0; i < response.tracks.items.length; i++) {
