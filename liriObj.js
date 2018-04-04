@@ -27,7 +27,7 @@ var liriObj = {
                 liriObj.movieInfo(request, movieName);
                 break;
             case 'do-what-it-says':
-            //Do nothing
+                //Do nothing
                 break;
             default:
                 liriObj.reply();
@@ -39,10 +39,12 @@ var liriObj = {
         var params = { screen_name: twitterHandle };
         client.get('statuses/user_timeline', params, function (error, tweets, response) {
             if (!error) {
+                // console.log(tweets[0].created_at);
                 for (var i = 0; i < 20; i++) {
                     console.log(
                         "----------------------------------------------------------------" + "\n" +
-                        (i + 1) + " : " + tweets[i].text
+                        tweets[0].created_at+"\n"+
+                        tweets[i].text
                     );
                 }
             }
@@ -60,7 +62,7 @@ var liriObj = {
                         "----------------------------------------------------------------" + "\r\n" +
                         "Artist Name:   " + response.tracks.items[i].artists[0].name + "\r\n" +
                         "Song Name:     " + response.tracks.items[i].name + "\r\n" +
-                        "Link:          " + response.tracks.items[i].preview_url + "\r\n" +
+                        "Preview Link:          " + response.tracks.items[i].preview_url + "\r\n" +
                         "Album:         " + response.tracks.items[i].album.name + "\r\n" +
                         "----------------------------------------------------------------" + "\n"
                     );
@@ -99,9 +101,10 @@ var liriObj = {
             '1. node liri.js    my-tweets           <twitter handle>' + '\r\n' +
             '2. node liri.js    spofity-this-song   <song name here>' + '\r\n' +
             '3. node liri.js    movie-this          <movie name>' + '\r\n' +
-            '4. node liri.js    do-what-it-says' + '\r\n' +
+            '4. node liri.js    do-what-it-says     {./random.txt file in the directory}' + '\r\n' +
             "----------------------------------------------------------------" + '\r\n' +
             'NOTE: If the song or movie title is more than one word it should be wrapped in "quotes"' + '\n' +
+            'NOTE: In the random.txt the first value must have a comma after"' + '\n' +
             "----------------------------------------------------------------" + '\r\n'
         );
     },

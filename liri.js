@@ -23,6 +23,8 @@ if (typeof process.argv[2] !== "undefined") {
             liriCommand = Text[0].toLowerCase();
             var liriArgument = Text[1];
             if (typeof process.argv[4] === "undefined") {
+              
+                
                 //Runs the LIRI Logic Object
                 liriObj.command(keys, liriCommand, liriArgument, request, fs, twitter, Spotify);
             }
