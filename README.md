@@ -8,21 +8,21 @@ The package.json lists dependent node packages as listed below:
 
 #### Twitter
 npm install twitter
-*    [Twitter API] (https://www.npmjs.com/package/dotenv)
+*    [Twitter API](https://www.npmjs.com/package/twitter)
 #### Spotify
 npm install node-spotify-api
-*   [Spotify API] (https://www.npmjs.com/package/node-spotify-api)
+*   [Spotify API](https://www.npmjs.com/package/node-spotify-api)
 #### Request
 npm install request
-*   [Request] (https://www.npmjs.com/package/request)
+*   [Request](https://www.npmjs.com/package/request)
 #### FS
 npm install fs
 #### DotEnv
 npm install dotenv
-*   [dotenv] (https://www.npmjs.com/package/dotenv)
+*   [dotenv](https://www.npmjs.com/package/dotenv)
 #### Log4js
 npm install log4js
-*   [Log4js] (https://www.npmjs.com/package/log4js)
+*   [Log4js](https://www.npmjs.com/package/log4js)
 
 
 What things you need to install the software and how to install them

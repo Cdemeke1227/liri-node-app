@@ -1,3 +1,4 @@
+
 const log4js = require('log4js');
 log4js.configure('./config/log4js.json');
 // -----------------------
@@ -113,6 +114,7 @@ var liriObj = {
             }
         });
     },
+    // Reply if user does not put in correct arguments
     reply: function () {
         var logger = log4js.getLogger('liri');
         var log = (
@@ -132,6 +134,7 @@ var liriObj = {
         console.log(log);
         logger.error(log);
     },
+    // Reply if user does not place song or movie in quotes if needed
     reply2: function () {
         var logger = log4js.getLogger('liri');
         var log = (
