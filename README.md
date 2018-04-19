@@ -81,30 +81,26 @@ To use the [liri-node-app]
 ### Get Tweets
 
     Retrieves up to your latest 20 tweets:
-        ```
-        node liri.js my-tweets <twitter username>
-        ```
+
+```node liri.js my-tweets <twitter username>```
 
 ### Get Song Info
 
     Retrieves song information for 5 songs:
-        ```
-        node liri.js spotify-this-song <song name>
-        ```
+
+```node liri.js spotify-this-song <song name>```
 
 ### Get Movie Info
 
     Retrieves movie information:
-        ```
-        node liri.js movie-this <movie name>
-        ```
+
+```node liri.js movie-this <movie name>```
 
 ### Get Random info
 
     Retrieves random text inside a file and does what it says:
-        ```
-        node liri.js do-what-it-says
-        ```
+
+```node liri.js do-what-it-says```
 
 
 *   Random info is retrieved from random.txt file     
