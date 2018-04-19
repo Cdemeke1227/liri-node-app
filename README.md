@@ -26,8 +26,7 @@ npm install log4js
 
 
 What things you need to install the software and how to install them
-
-[Node JS] (https://nodejs.org/en/)
+*   [Node JS](https://nodejs.org/en/)
 
 
 ### Installing
@@ -35,8 +34,8 @@ What things you need to install the software and how to install them
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Download the directory form git hub:
-    *   git clone: https://github.com/Cdemeke1227/liri-node-app.git
-    *   cd [liri-node-app]
+    *   ```git clone: https://github.com/Cdemeke1227/liri-node-app.git```
+    *   ```cd [liri-node-app]```
 
 2. Using terminal (bash/cmd) run npm install from the [liri-node-app] directory retrieve node modules
 
