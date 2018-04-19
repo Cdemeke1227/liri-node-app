@@ -34,8 +34,8 @@ What things you need to install the software and how to install them
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Download the directory form git hub:
-    *   ```git clone: https://github.com/Cdemeke1227/liri-node-app.git```
-    *   ```cd [liri-node-app]```
+    *   ```$ git clone: https://github.com/Cdemeke1227/liri-node-app.git```
+    *   ```$ cd [liri-node-app]```
 
 2. Using terminal (bash/cmd) run npm install from the [liri-node-app] directory retrieve node modules
 
@@ -73,32 +73,29 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Getting Started
 
-To use the [liri-node-app] 
-
- Using terminal (bash/cmd)
-    *   cd [liri-node-app]
+1. Using terminal (bash/cmd)
+    *   Go to host directory:   ```$ liri-node-app```
 
 ### Get Tweets
 
-    Retrieves up to your latest 20 tweets:
+*   Retrieves up to your latest 20 tweets:
 
 ```node liri.js my-tweets <twitter username>```
 
 ### Get Song Info
 
-    Retrieves song information for 5 songs:
+*   Retrieves song information for 5 songs:
 
 ```node liri.js spotify-this-song <song name>```
 
 ### Get Movie Info
 
-    Retrieves movie information:
+*   Retrieves movie information:
 
 ```node liri.js movie-this <movie name>```
 
 ### Get Random info
-
-    Retrieves random text inside a file and does what it says:
+*   Retrieves random text inside a file and does what it says:
 
 ```node liri.js do-what-it-says```
 
