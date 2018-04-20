@@ -103,6 +103,13 @@ These instructions will get you a copy of the project up and running on your loc
 *   Random info is retrieved from random.txt file     
 *   All node and interaction and responses are logged to liri.log file
 
+
+## Example Video
+To see the app in action click this link:
+
+[Video Link](https://drive.google.com/file/d/1qouuw1tmX8nWjBd4H_3v90yFgtMfSGv8/view?usp=sharing)
+
+
 ## Authors
 
 * **Christopher Demeke** - *Initial work* - [Cdemeke1227](https://github.com/Cdemeke1227)
